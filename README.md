@@ -5,10 +5,10 @@
 -->
 
 - 🔭 I’m currently working on end-to-end encrypted Chatroom application using `flask`
-- 🌱 I’m currently learning Kubernetes
-- 👯 I’m looking to collaborate on short term Data Analysis projects
+- 🌱 I’m currently learning `Kubernetes`
+- 👯 I’m looking to collaborate on short term `Data Analysis` projects
 - 💬 Ask me about the DevOps concepts
-- ⚡ `data-analysis` `scripting` `scraping` `docker` `blogging` `poetry`
+- ⚡ `scripting` `scraping` `docker` `blogging` `poetry`
 
 <br />
 
