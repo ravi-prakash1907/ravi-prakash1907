@@ -16,8 +16,16 @@
 [![Twitter](https://img.shields.io/badge/Twitter-follow-0088ff.svg?label=Connect&message=@73MP0R4L&logo=twitter&logoColor=white)](https://twitter.com/73MP0R4L/) 
 [![LinkedIn](https://img.shields.io/static/v1.svg?label=Connect&message=@ravi-prakash1907&color=grey&logo=linkedin&labelColor=0088ff&style=social)](https://www.linkedin.com/in/ravi-prakash1907/) 
 
-<!-- Stats -->
-![Ravi's github stats](https://github-readme-stats.vercel.app/api?username=ravi-prakash1907&count_private=true&show_icons=true&&hide_border=true)
+
+![Ravi's github stats](https://github-readme-stats.vercel.app/api/?username=ravi-prakash1907&count_private=true&show_icons=true&&hide_border=0) 
+
+<details>
+  <summary>
+    GitHub Top Languages
+  </summary>  
+  
+  ![Ravi's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-prakash1907&layout=compact&hide=jupyter+notebook)
+</details>
 
 
 <!--
