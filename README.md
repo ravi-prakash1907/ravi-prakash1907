@@ -28,16 +28,14 @@
 <br />
 
 
-📈 My GitHub Stats
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ravi-prakash1907&show_icons=true&theme=gotham" alt="ravi-prakash1907" />
 
 <details>  
   <summary>
     Coding Languages
-  </summary>  
-  
-  ![Highly Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-prakash1907&layout=compact)
+  </summary>    
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravi-prakash1907&show_icons=true&theme=gotham" alt="ravi-prakash1907" />
+
 </details>
 
 
