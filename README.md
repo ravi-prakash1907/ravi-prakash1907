@@ -1,6 +1,5 @@
-![banner](assets/banner.jpeg)
-
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+![banner](assets/banner.jpeg)
 
 <a href="https://twitter.com/73MP0R4L">
   <img align="left" alt="Ravi Prakash | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
