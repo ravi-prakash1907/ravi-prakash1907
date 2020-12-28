@@ -24,7 +24,7 @@
     Coding Languages
   </summary>  
   
-  ![Highly Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-prakash1907&layout=compact&hide=jupyter+notebook)
+  ![Highly Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-prakash1907&layout=compact)
 </details>
 
 
