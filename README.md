@@ -1,4 +1,19 @@
-### Hi there 👋 [![](https://visitor-badge.glitch.me/badge?page_id=ravi-prakash1907.ravi-prakash1907)]()
+![banner](assets/banner.jpeg)
+
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+
+<a href="https://twitter.com/73MP0R4L">
+  <img align="left" alt="Ravi Prakash | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ravi-prakash1907/">
+  <img align="left" alt="Ravi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/ravi_prakash1907/">
+  <img align="left" alt="Ravi's Instagram" width="22px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=ravi-prakash1907.ravi-prakash1907)
+
 
 <!--
 **ravi-prakash1907/ravi-prakash1907**
@@ -12,14 +27,12 @@
 
 <br />
 
-[![Instagram](https://img.shields.io/badge/Instagram-follow-0088ff.svg?label=Connect&message=@ravi_prakash1907&logo=instagram&logoColor=white)](https://www.instagram.com/ravi_prakash1907/) 
-[![Twitter](https://img.shields.io/badge/Twitter-follow-0088ff.svg?label=Connect&message=@73MP0R4L&logo=twitter&logoColor=white)](https://twitter.com/73MP0R4L/) 
-[![LinkedIn](https://img.shields.io/static/v1.svg?label=Connect&message=@ravi-prakash1907&color=grey&logo=linkedin&labelColor=0088ff&style=social)](https://www.linkedin.com/in/ravi-prakash1907/) 
 
+📈 My GitHub Stats
 
-![Ravi's github stats](https://github-readme-stats.vercel.app/api/?username=ravi-prakash1907&count_private=true&show_icons=true&&hide_border=0) 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ravi-prakash1907&show_icons=true&theme=gotham" alt="ravi-prakash1907" />
 
-<details>
+<details>  
   <summary>
     Coding Languages
   </summary>  
@@ -28,9 +41,3 @@
 </details>
 
 
-<!--
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-:smile: Fun fact: `1 commit a day, keeps the whiteness away`
--->
