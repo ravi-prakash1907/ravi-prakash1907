@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on an AI/ML project for [COVID-19 vaccine prioritization](https://github.com/ravi-prakash1907/Prioritize-Vaccine-Delivery)
 - 🌱 I’m currently learning `Kubernetes`
-- 👯 I’m looking to collaborate on short term `Data Analysis` projects
+<!-- 👯 I’m looking to collaborate on short term `Data Analysis` projects-->
 - 💬 Ask me about the DevOps concepts
 - ⚡ `scripting` `scraping` `docker` `blogging` `poetry`
 
