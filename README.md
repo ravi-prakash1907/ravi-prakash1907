@@ -11,8 +11,9 @@
   <img align="left" alt="Ravi's Instagram" width="22px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=ravi-prakash1907.ravi-prakash1907)
+![](https://visitor-badge.glitch.me/badge?page_id=ravi-prakash1907.ravi-prakash1907)  
 
+_🔗 [ravi-prakash1907.gitlab.io](http://ravi-prakash1907.gitlab.io/)_
 
 <!--
 **ravi-prakash1907/ravi-prakash1907**
@@ -21,7 +22,7 @@
 - 🔭 I’m currently working on an AI/ML project for [COVID-19 vaccine prioritization](https://github.com/ravi-prakash1907/Prioritize-Vaccine-Delivery)
 - 🌱 I’m currently learning `Kubernetes`  <!-- 👯 I’m looking to collaborate on short term `Data Analysis` projects-->
 - 💬 Ask me about the DevOps concepts
-- ⚡ `scripting` `scraping` `docker` `blogging` `poetry`
+- ⚡ `scripting` `scraping` `docker` `blogging` `poetry`  
 
 <br />
 
