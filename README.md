@@ -30,14 +30,18 @@ _🔗 [ravi-prakash1907.gitlab.io](http://ravi-prakash1907.gitlab.io/)_
 <br />
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ravi-prakash1907&show_icons=true&theme=gotham" alt="ravi-prakash1907" />
+## 📈 commit stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravi-prakash1907&show_icons=true&theme=gotham" style="width:40%; float:left; margin:0, 10%, 0, 0" alt="ravi-prakash1907" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-prakash1907&theme=gotham" style="width:40%; float:right; margin:0, 0, 0, 10%" alt="GitHub Streak" />
+</div>
 
 <details>  
   <summary>
     Coding Languages
   </summary>    
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravi-prakash1907&show_icons=true&theme=gotham" alt="ravi-prakash1907" />
-
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravi-prakash1907&show_icons=true&theme=gotham" alt="ravi-prakash1907" /> </p>
 </details>
-
 
