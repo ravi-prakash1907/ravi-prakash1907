@@ -22,9 +22,9 @@ _🔗 [ravi-prakash1907.gitlab.io](http://ravi-prakash1907.gitlab.io/)_
 **ravi-prakash1907/ravi-prakash1907**
 -->
 
-- 🔭 I’m currently working on an AI/ML based project from Cyber Security domain to enhance the steganography methods for image hiding.
+- 🔭 I’m currently working on biometric and cryptography for data security & enctyption.
 - 🌱 I’m currently learning `Kubernetes`  <!-- 👯 I’m looking to collaborate on short term `Data Analysis` projects-->
-- 💬 Ask me about the DevOps concepts
+- 💬 Ask me about the DevOps and Blockchain security concepts
 - ⚡ `scripting` `scraping` `docker` `blogging` `poetry`  
 
 <br />
