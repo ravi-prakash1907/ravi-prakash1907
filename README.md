@@ -16,8 +16,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ravi-prakash1907.ravi-prakash1907)  
 
-_🔗 [ravi-prakash1907.gitlab.io](http://ravi-prakash1907.gitlab.io/)_
-
+_🔗 [raviprakash.cf](https://raviprakash.cf/)_
 <!--
 **ravi-prakash1907/ravi-prakash1907**
 -->
