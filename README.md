@@ -21,8 +21,8 @@ _🔗 [raviprakash.cf](https://raviprakash.cf/)_
 **ravi-prakash1907/ravi-prakash1907**
 -->
 
-- 🔭 I’m currently working on biometric and cryptography for data security & enctyption.
-- 🌱 I’m currently exploring `Metaverse`  <!-- 👯 I’m looking to collaborate on short term `Data Analysis` projects-->
+- 🌱 I’m currently working on AR/VR/MR (XR) security.
+- 🔭 I’m currently exploring `Metaverse`  <!-- 👯 I’m looking to collaborate on short term `Data Analysis` projects-->
 - 💬 Ask me about the DevOps and Blockchain security concepts
 - ⚡ `scripting` `scraping` `docker` `K8s` `blogging` `poetry`  
 
