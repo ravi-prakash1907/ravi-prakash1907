@@ -22,9 +22,9 @@ _🔗 [raviprakash.cf](https://raviprakash.cf/)_
 -->
 
 - 🔭 I’m currently working on biometric and cryptography for data security & enctyption.
-- 🌱 I’m currently learning `Kubernetes`  <!-- 👯 I’m looking to collaborate on short term `Data Analysis` projects-->
+- 🌱 I’m currently exploring `Metaverse`  <!-- 👯 I’m looking to collaborate on short term `Data Analysis` projects-->
 - 💬 Ask me about the DevOps and Blockchain security concepts
-- ⚡ `scripting` `scraping` `docker` `blogging` `poetry`  
+- ⚡ `scripting` `scraping` `docker` `K8s` `blogging` `poetry`  
 
 <br />
 
