@@ -1,5 +1,5 @@
 ### 👋 Hi there 
-![banner](assets/banner.jpeg)
+![header image](assets/banner.jpeg)
 
 <a href="https://twitter.com/73MP0R4L">
   <img align="left" alt="Ravi Prakash | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
