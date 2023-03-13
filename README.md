@@ -34,7 +34,7 @@ _🔗 [raviprakash.cf](https://raviprakash.cf/)_
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ravi-prakash1907&show_icons=true&theme=gotham" style="width:40%; float:left; margin:0, 10%, 0, 0" alt="ravi-prakash1907" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-prakash1907&theme=gotham" style="width:40%; float:right; margin:0, 0, 0, 10%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ravi-prakash1907&theme=dark&background=0C1014" alt="GitHub Streak" />
 </div>
 
 <details>  
