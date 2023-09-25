@@ -1,8 +1,6 @@
 ### 👋 Hi there 
 ![header image](assets/banner.jpeg)
 
-_🔗 [raviprakash.cf](https://raviprakash.cf/)_
-
 <a href="https://www.instagram.com/ravi_prakash1907/">
   <img align="left" alt="Ravi's LinkedIN" width="22" height="22" src="https://cdn.simpleicons.org/instagram" />
 </a>
@@ -20,7 +18,7 @@ _🔗 [raviprakash.cf](https://raviprakash.cf/)_
 ![](https://visitor-badge.glitch.me/badge?page_id=ravi-prakash1907.ravi-prakash1907)  
 -->  
 
-<br> 
+_🔗 [raviprakash.cf](https://raviprakash.cf/)_ <br> 
 
 - 🌱 I’m currently working on AR/VR/MR (XR) security.
 - 🔭 I’m currently exploring `Metaverse`  <!-- 👯 I’m looking to collaborate on short-term `Data Analysis` projects-->
