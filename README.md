@@ -16,9 +16,10 @@
 
 <!--
 ![](https://visitor-badge.glitch.me/badge?page_id=ravi-prakash1907.ravi-prakash1907)  
+_🔗 [raviprakash.cf](https://raviprakash.cf/)_ <br> 
 -->  
 
-_🔗 [raviprakash.cf](https://raviprakash.cf/)_ <br> 
+_🔗 [ravi-prakash1907.gitlab.io](https://ravi-prakash1907.gitlab.io/)_ <br> 
 
 - 🌱 I’m currently working on AR/VR/MR (XR) security.
 - 🔭 I’m currently exploring `Metaverse`  <!-- 👯 I’m looking to collaborate on short-term `Data Analysis` projects-->
