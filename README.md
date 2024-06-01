@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/ravi-prakash1907/">
   <img align="left" alt="Ravi's LinkedIN" width="22" height="22" src="https://cdn.simpleicons.org/linkedin" />
 </a>
-<a href="https://twitter.com/73MP0R4L">
+<a href="https://twitter.com/prakashravi1907">
   <img align="left" alt="Ravi's LinkedIN" width="22" height="22" src="https://cdn.simpleicons.org/x" />
 </a>
 <a href="https://ravi-prakash1907.medium.com/">
