@@ -1,7 +1,7 @@
 ### 👋 Hi there 
 ![header image](assets/banner.jpeg)
 
-<a href="https://www.instagram.com/ravi_prakash1907/">
+<a href="https://www.instagram.com/prakashravi1907/">
   <img align="left" alt="Ravi's LinkedIN" width="22" height="22" src="https://cdn.simpleicons.org/instagram" />
 </a>
 <a href="https://www.linkedin.com/in/ravi-prakash1907/">
