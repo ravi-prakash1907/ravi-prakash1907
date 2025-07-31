@@ -33,16 +33,10 @@ _🔗 [ravi-prakash1907.gitlab.io](https://ravi-prakash1907.gitlab.io/)_ <br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ravi-prakash1907&show_icons=true&theme=gotham" style="width:40%; float:left; margin:0, 10%, 0, 0" alt="ravi-prakash1907" />
-  
-  <img src="https://streak-stats.demolab.com?user=ravi-prakash1907&theme=dark&background=0C1014" alt="GitHub Streak" style="width:42%; float:left; margin:0, 10%, 0, 0" alt="ravi-prakash1907" />
-</div>
 
-<details>  
-  <summary>
-    Coding Languages
-  </summary>    
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravi-prakash1907&show_icons=true&hide=jupyter%20notebook,html&layout=compact&langs_count=10&theme=gotham" alt="ravi-prakash1907" /> </p>
-</details>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravi-prakash1907&show_icons=true&hide=jupyter%20notebook,html&layout=compact&langs_count=10&theme=gotham" alt="ravi-prakash1907" />
+  <!--<img src="https://streak-stats.demolab.com?user=ravi-prakash1907&theme=dark&background=0C1014" alt="GitHub Streak" style="width:42%; float:left; margin:0, 10%, 0, 0" alt="ravi-prakash1907" />-->
+</div>
 
 ---
 
